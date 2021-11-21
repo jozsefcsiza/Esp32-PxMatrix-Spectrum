@@ -1,10 +1,10 @@
 ![icon](https://user-images.githubusercontent.com/61933721/123552174-983dc180-d77d-11eb-9d72-8daecaa46584.png)
 
-# ESP32-INMP441-SPECTRUM
+# ESP32-INMP441-PxMATRIX-SPECTRUM
 ESP32 spectrum analyzer with INMP441 I2S microphone with bluetooth control via any Android device.
 
 # HARDWARE
-WS2812B led matrix.
+Px Led Panel(P2, P2.5, P3, P5, etc...).
 
 INMP441 I2S microphone.
 
@@ -13,7 +13,8 @@ ESP32 dev board, the exact type doesn't matter.
 Any android devce with bluetooth.
 
 # WIRING
-![Wiring](https://user-images.githubusercontent.com/61933721/123543411-ef7c6b80-d756-11eb-9c7a-f273d759a34c.png)
+
+![Wiring](https://user-images.githubusercontent.com/61933721/142764859-445b5130-671d-430f-9cb5-2aa01c29e51b.png)
 
 
 # SOFTWARE
