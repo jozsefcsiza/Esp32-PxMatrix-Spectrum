@@ -17,6 +17,15 @@ Any android devce with bluetooth.
 
 ![Wiring](https://user-images.githubusercontent.com/61933721/142764859-445b5130-671d-430f-9cb5-2aa01c29e51b.png)
 
+# REQUIRED LIBRARIES
+FastLED            Arduino libraries manager -> This library is used for color manipulation
+ArduinoFFT         Arduino libraries manager -> This library is used for audio process
+BluetoothSerial    Built in -> This library is used for ESP32 and Android device comunication via bluetooth
+Preferences		  Built in -> This library is used to save some preferences in the EPS32 memory
+PxMatrix           Included in the project and is used to control a Px matrix panel	https://github.com/2dom/PxMatrix visit this link to setup and troubleshoot your Px atrix panel!!!!!!
+Adafruit GFX       Arduino libraries manager -> This library is needed for the PxMatrix header
+Adafruit BusIO     Arduino libraries manager -> This library is needed for the PxMatrix header
+  
 # BUILD AND RUN
 Wire your ESP32 properly.
 
