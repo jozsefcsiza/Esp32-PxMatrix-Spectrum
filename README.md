@@ -16,24 +16,6 @@ Any android devce with bluetooth.
 
 ![Wiring](https://user-images.githubusercontent.com/61933721/142764859-445b5130-671d-430f-9cb5-2aa01c29e51b.png)
 
-
-# SOFTWARE
-
-    -> Replace
-    #define LED_PIN 2 in the ESP32-INMP441-SPECTRUM.ino file to your desired led pin of the matrix.
-
-    -> Replace
-    #define I2S_WS 15   // aka LRCL
-    #define I2S_SD 32   // aka DOUT
-    #define I2S_SCK 14  // aka BCLK
-    in the audio_reactive.h file to your desired INMP441 microphone pins
-
-Spectrum analyzer matrix patterns source code by [Scott Marley](https://github.com/s-marley/ESP32-INMP441-Matrix-VU)
-
-INMP441 I2S audio process source code by [WLED sound reactive fork](https://github.com/atuline/WLED)
-
-Bluetooth control Arduino and Android source code by me.
-
 # BUILD AND RUN
 Wire your ESP32 properly.
 
