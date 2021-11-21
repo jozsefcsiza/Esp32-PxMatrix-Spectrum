@@ -26,7 +26,7 @@ BluetoothSerial -> Built in -> This library is used for ESP32 and Android device
 
 Preferences -> Built in -> This library is used to save some preferences in the EPS32 memory
 
-PxMatrix -> Included in the project and is used to control a Px matrix panel	https://github.com/2dom/PxMatrix visit this link to setup and troubleshoot your Px atrix panel!!!!!!
+PxMatrix -> Included in the project and is used to control a Px matrix panel	https://github.com/2dom/PxMatrix visit this link to setup and troubleshoot your Px matrix panel!!!!!!
 
 Adafruit GFX -> Arduino libraries manager -> This library is needed for the PxMatrix header
 
