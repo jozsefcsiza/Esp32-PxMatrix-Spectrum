@@ -5,7 +5,7 @@ ESP32 spectrum analyzer with INMP441 I2S microphone with bluetooth control via a
 
 # HARDWARE
 Px Led Panel(P2, P2.5, P3, P5, etc...).
-First you have to make work your led panel. To setup and troubleshoot visit the following link https://github.com/2dom/PxMatrix
+First you have to make your led panel to work. To setup and troubleshoot visit the following link https://github.com/2dom/PxMatrix
 
 INMP441 I2S microphone.
 
