@@ -20,6 +20,7 @@ Any android devce with bluetooth.
 # WIRING
 
 ![Wiring](https://user-images.githubusercontent.com/61933721/142764859-445b5130-671d-430f-9cb5-2aa01c29e51b.png)
+![Wiring](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/Box.png)
 
 # REQUIRED LIBRARIES
 Esp32 1.0.4 -> Board manager library -> Use only the 1.0.4 version, with higher versions will not work the audio process
