@@ -3,6 +3,8 @@
 # ESP32-INMP441-PxMATRIX-SPECTRUM
 ESP32 spectrum analyzer with INMP441 I2S microphone and a space arcade game with bluetooth control via any Android device.
 
+The demo gifs are with a 64x64 P2 led panel.
+
 ![Spectrum](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/Spectrum1.gif)
 ![Spectrum](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/Spectrum2.gif)
 ![Spectrum](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/Game.gif)
