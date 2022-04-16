@@ -59,7 +59,7 @@ ESP32 DEEP SLEEP - Pauses the audio process and sets the led brightness to 0, so
 
 NEXT PATTERN - You can switch between the built in patterns.
 
-SMOOTH SPECTRUM - You can enable or disable the smooth pattern.
+SMOOTH SPECTRUM - You can enable or disable the smooth spectrum.
 
 BRIGHTNESS - Led brightness setting. It consumes amps. If you use it with PC or something, at maximum brightness can freeze the esp. A phone charger has enough amps to use it on maximum brightness.
 
