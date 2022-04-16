@@ -20,6 +20,8 @@ Any android devce with bluetooth.
 ![Wiring](https://user-images.githubusercontent.com/61933721/142764859-445b5130-671d-430f-9cb5-2aa01c29e51b.png)
 
 # REQUIRED LIBRARIES
+Esp32 1.0.4 -> Board manager library -> Use only the 1.0.4 version, with higher versions will not work the audio process
+
 FastLED -> Arduino libraries manager -> This library is used for color manipulation
 
 ArduinoFFT -> Arduino libraries manager -> This library is used for audio process
