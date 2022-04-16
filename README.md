@@ -1,9 +1,11 @@
 ![icon](https://user-images.githubusercontent.com/61933721/123552174-983dc180-d77d-11eb-9d72-8daecaa46584.png)
 
 # ESP32-INMP441-PxMATRIX-SPECTRUM
-ESP32 spectrum analyzer with INMP441 I2S microphone with bluetooth control via any Android device.
+ESP32 spectrum analyzer with INMP441 I2S microphone and a space arcade game with bluetooth control via any Android device.
 
 ![Spectrum](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/Spectrum1.gif)
+![Spectrum](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/Spectrum2.gif)
+![Spectrum](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/Game.gif)
 
 # HARDWARE
 Px Led Panel(P2, P2.5, P3, P5, etc...).
@@ -41,21 +43,23 @@ Wire your ESP32 properly.
 
 Upload the arduino code to your ESP32 device.
 
-Install the Spectrum.apk tou your android device.
+Install the Esp32.apk tou your android device.
 
-![Spectrum2](https://user-images.githubusercontent.com/61933721/123543784-df658b80-d758-11eb-9e7d-9141360e3ed1.png)
+![Spectrum2](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/MainMenu.png)
 
 SPECTRUM SETTINGS - Accesss the spectrum settings.
+
+SPACE ARCADE GAME - Start the arcade game.
 
 SELECT BLUETOOTH - Select the esp32 bluetooth, it is saved and you don't have to reselect all the time.
 
 ESP32 DEEP SLEEP - Pauses the audio process and sets the led brightness to 0, so only the bluetooth will remain in function and after restarting the android app the spectrum analyzer will be activated automatically. It is like a switch off, except the bluetooth.
 
-![Spectrum1](https://user-images.githubusercontent.com/61933721/123284133-afc64180-d514-11eb-88a6-4419e1215f16.png)
+![Spectrum1](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/SpectrumSettings.png)
 
 NEXT PATTERN - You can switch between the built in patterns.
 
-AUTO CHANGE - You can set the auto change in seconds. In every N seconds the pattern is changing.
+SMOOTH PATTERN - You can enable or disable the smooth pattern.
 
 BRIGHTNESS - Led brightness setting. It consumes amps. If you use it with PC or something, at maximum brightness can freeze the esp. A phone charger has enough amps to use it on maximum brightness.
 
