@@ -3,7 +3,7 @@
 # ESP32-INMP441-PxMATRIX-SPECTRUM
 ESP32 spectrum analyzer with INMP441 I2S microphone with bluetooth control via any Android device.
 
-![Spectrum](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/Spectrum%20GIF.gif)
+![Spectrum](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/Spectrum1.gif)
 
 # HARDWARE
 Px Led Panel(P2, P2.5, P3, P5, etc...).
