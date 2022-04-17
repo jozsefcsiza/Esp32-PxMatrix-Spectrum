@@ -74,4 +74,4 @@ RESET (DEFAULTS) - Resets all the spectrum settings.
 
 ![Spectrum1](https://raw.githubusercontent.com/jozsefcsiza/Esp32-PxMatrix-Spectrum/main/Game.png)
 
-It is a simple arcade game. You have to move left and right to destroy the enemy ships. Fireing is automatic and when you destroy the whole row of enemies the game will speed up each time. Eachd estroyed enemy is one point.
+It is a simple arcade game. You have to move left and right to destroy the enemy ships. Fireing is automatic and when you destroy the whole row of enemies the game will speed up each time. Each destroyed enemy is one point.
